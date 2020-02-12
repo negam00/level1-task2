@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Logic app Kotlin</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="aTitle">A</string>
+    <string name="bTitle">B</string>
+    <string name="abTitle">A ^ B</string>
+    <string name="falseText">F</string>
+    <string name="trueText">T</string>
+    <string name="checkBtn">Check answers</string>
+    <string name="allCorrect">All answers are correct</string>
+    <string name="incorrectAnswers">Not all answers were correct</string>
+</resources>
